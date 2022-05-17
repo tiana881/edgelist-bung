@@ -1,0 +1,13 @@
+from,to,weight
+rinsdorf ,sandhu,3
+sandhu ,rinsdorf,3
+sandhu ,hassenstein,3
+hassenstein ,ritz,3
+kamps,hafner,1
+sandhu ,kamps,3
+maeder ,bader ,3
+bader ,maeder ,3
+bader ,hafner,3
+bader ,rinsdorf,1
+maeder ,pfalzgraf,3
+ritz,sandhu,1
